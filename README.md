@@ -1,9 +1,9 @@
 # frontiers_camda_2023
  This repository contains all scripts and processed ouputs used for analysis and interpretation for the camda 2023 challenge and the Frontiers Bioinformatics manuscript submission.
 
-# Authors
 # Antimicrobial Resistance in Diverse Urban Microbiomes: Uncovering Patterns and Predictive Markers
 
+### Authors
 **Rodolfo Brizola Toscan<sup>1,\*</sup>, Wojciech Lesiński<sup>2</sup>, Piotr Stomma<sup>2</sup>, Balakrishnan Subramanian<sup>3</sup>, Paweł Łabaj<sup>2</sup> and Witold R. Rudnicki<sup>2,3</sup>**
 
 1. Małopolska Centre of Biotechnology, Jagiellonian University, Cracow, Poland  
