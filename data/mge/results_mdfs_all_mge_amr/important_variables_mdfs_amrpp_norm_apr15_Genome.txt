@@ -1,0 +1,92 @@
+$`DEN versus all`
+ [1] "A16S"   "ERMX"   "MEXE"   "MEXF"   "MLS23S" "PARE"   "PSTB"   "RECGM"  "RPOB"   "RPOCR"  "RPSA"  
+[12] "RPSL"   "RRS"    "SODB"   "TET16S" "TUFAB"  "VANRS" 
+
+$`NYC versus all`
+  [1] "A16S"        "ABAQ"        "ABES"        "ABUO"        "ADEH"        "ADEJ"        "ADET2"      
+  [8] "APH3.DPRIME" "ARNA"        "ARSBM"       "ARSC"        "BASRS"       "BLAR"        "CADD"       
+ [15] "CADX"        "CAP16S"      "COPA"        "COPC"        "CORA"        "CPXAR"       "CRP"        
+ [22] "CTX"         "CUEA"        "CZRA"        "DFRA"        "DNAK"        "EMRASM"      "EMRBSM"     
+ [29] "EMRCSM"      "ERMC"        "ERMX"        "FABG"        "FABI"        "FOLP"        "FUSA"       
+ [36] "FUSE"        "GLPT"        "GYRA"        "GYRB"        "GYRBA"       "GYRBZ"       "HNS"        
+ [43] "IBPA"        "ICR"         "ILES"        "KPN"         "LNUA"        "LPSB"        "LPXA"       
+ [50] "LPXC"        "MCO"         "MERA"        "MERD"        "MERF"        "MERT"        "MEXB"       
+ [57] "MEXE"        "MEXF"        "MEXK"        "MEXT"        "MEXW"        "MGRA"        "MLS23S"     
+ [64] "MPHE"        "MSRA"        "MSRD"        "MSRE"        "MUXB"        "NORA"        "NORMD"      
+ [71] "NREB"        "O23S"        "OMPA"        "OXYRKP"      "PARC"        "PARE"        "PATA"       
+ [78] "PATB"        "PCOB"        "PCOD"        "PCOE"        "PCOR"        "PCOS"        "PHOP"       
+ [85] "PSTA"        "PSTB"        "PSTC"        "PTSL"        "QACC"        "QACD"        "QACR"       
+ [92] "RECG"        "RECGM"       "RLMA"        "RPLD"        "RPOB"        "RPOCR"       "RPOS"       
+ [99] "RPSJ"        "RRS"         "RRSC"        "RRSH"        "RUVB"        "SILA"        "SILB"       
+[106] "SILC"        "SILP"        "SILS"        "SME"         "SMET"        "SMRA"        "SODA"       
+[113] "SODB"        "SULII"       "TCRA"        "TCRB"        "TCRY"        "TCRZ"        "TETA"       
+[120] "TETK"        "TETR"        "TUFAB"       "UHPT"        "WALK"        "YAJC"        "YJCG"       
+
+$`SAC versus all`
+[1] "MERA" "MERD" "MERE" "MERP" "MERR" "MERT"
+
+$`BAL versus all`
+NULL
+
+$`MIN versus all`
+character(0)
+
+$`SAN versus all`
+character(0)
+
+$`+ DEN NYC +`
+ [1] "A16S"        "ADEJ"        "APH3.DPRIME" "ARSC"        "BLAR"        "CADD"        "CAP16S"     
+ [8] "CRP"         "CTX"         "CZRA"        "DNAK"        "EMRASM"      "EMRBSM"      "ERMX"       
+[15] "FABG"        "FABI"        "FOLP"        "FUSA"        "FUSE"        "GYRA"        "GYRB"       
+[22] "GYRBZ"       "ICR"         "LNUA"        "LPXC"        "LSAC"        "MCO"         "MERF"       
+[29] "MERT"        "MEXE"        "MEXF"        "MEXK"        "MLS23S"      "MPHE"        "MSRD"       
+[36] "MSRE"        "MUXB"        "OXYRKP"      "PARC"        "PARE"        "PATA"        "PCOB"       
+[43] "PHOP"        "PSTA"        "PSTB"        "PSTC"        "PTSL"        "QACD"        "QACR"       
+[50] "RECG"        "RECGM"       "RLMA"        "RPOB"        "RPOCL"       "RPOCR"       "RPOS"       
+[57] "RPSA"        "RPSL"        "RRS"         "RRSA"        "RRSC"        "RUVB"        "SILA"       
+[64] "SILB"        "SILC"        "SILP"        "SME"         "SMRA"        "SODA"        "SODB"       
+[71] "TCRB"        "TCRY"        "TCRZ"        "TETA"        "TUFAB"       "VANRS"       "YAJC"       
+[78] "YJCG"       
+
+$`+ DEN SAC +`
+[1] "A16S"   "CAP16S" "RPSA"   "RRS"    "RRSA"   "VANRS" 
+
+$`+ DEN BAL +`
+NULL
+
+$`+ DEN MIN +`
+NULL
+
+$`+ DEN SAN +`
+character(0)
+
+$`+ NYC SAC +`
+[1] "CPXAR" "MERE"  "MERP"  "MERR"  "MEXF"  "PARE"  "RECGM" "RPOB"  "RUVB" 
+
+$`+ NYC BAL +`
+NULL
+
+$`+ NYC MIN +`
+character(0)
+
+$`+ NYC SAN +`
+[1] "MERD"   "MLS23S" "RRSC"   "RRSH"   "RUVB"  
+
+$`+ SAC BAL +`
+[1] "MERA"   "MERD"   "MERE"   "MERP"   "MERR"   "OXA"    "TET16S"
+
+$`+ SAC MIN +`
+character(0)
+
+$`+ SAC SAN +`
+[1] "CAP16S" "O23S"  
+
+$`+ BAL MIN +`
+character(0)
+
+$`+ BAL SAN +`
+[1] "MERA" "MERD" "MERE"
+
+$`+ MIN SAN +`
+character(0)
+

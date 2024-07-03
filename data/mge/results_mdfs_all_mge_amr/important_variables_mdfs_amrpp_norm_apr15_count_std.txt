@@ -1,0 +1,93 @@
+$`DEN versus all`
+ [1] "CAP16S" "ERMX"   "MEXE"   "MEXF"   "MLS23S" "PARE"   "PSTB"   "RECGM"  "RPOB"   "RPOCR"  "RPSA"  
+[12] "RRS"    "RRSA"   "RRSC"   "RRSH"   "TUFAB"  "VANRS" 
+
+$`NYC versus all`
+  [1] "A16S"        "ABAQ"        "ABES"        "ABUO"        "ADEH"        "ADEJ"        "ADET2"      
+  [8] "APH3.DPRIME" "ARNA"        "ARSBM"       "ARSC"        "BASRS"       "BLAI"        "BLAR"       
+ [15] "CADD"        "CADX"        "CAP16S"      "COPA"        "COPC"        "CORA"        "CPXAR"      
+ [22] "CRP"         "CTX"         "CUEA"        "CZRA"        "DNAK"        "EMRASM"      "EMRBSM"     
+ [29] "EMRCSM"      "ERMC"        "ERMX"        "FABG"        "FABI"        "FOLP"        "FUSA"       
+ [36] "FUSE"        "GLPT"        "GYRA"        "GYRB"        "GYRBA"       "GYRBZ"       "HNS"        
+ [43] "IBPA"        "ICR"         "ILES"        "KPN"         "LNUA"        "LPSB"        "LPXA"       
+ [50] "LPXC"        "LSAC"        "MCO"         "MERD"        "MERF"        "MERP"        "MERT"       
+ [57] "MEXB"        "MEXE"        "MEXF"        "MEXK"        "MEXT"        "MEXW"        "MGRA"       
+ [64] "MLS23S"      "MPHC"        "MPHE"        "MSRA"        "MSRD"        "MSRE"        "MUXB"       
+ [71] "NORA"        "NORMD"       "NREB"        "O23S"        "OMPA"        "OXYRKP"      "PARC"       
+ [78] "PARE"        "PATA"        "PATB"        "PCOB"        "PCOD"        "PCOE"        "PCOR"       
+ [85] "PHOP"        "PSTA"        "PSTB"        "PSTC"        "PTSL"        "QACC"        "QACD"       
+ [92] "QACR"        "RECG"        "RECGM"       "RLMA"        "RPLD"        "RPOB"        "RPOCL"      
+ [99] "RPOS"        "RPSJ"        "RPSL"        "RRS"         "RRSC"        "RRSH"        "RUVB"       
+[106] "SILA"        "SILB"        "SILC"        "SILP"        "SILS"        "SME"         "SMET"       
+[113] "SMRA"        "SODA"        "SODB"        "SULII"       "TCRA"        "TCRB"        "TCRY"       
+[120] "TCRZ"        "TETA"        "TETK"        "TETR"        "UHPT"        "WALK"        "YAJC"       
+[127] "YJCG"       
+
+$`SAC versus all`
+[1] "MERA" "MERD" "MERE" "MERT"
+
+$`BAL versus all`
+character(0)
+
+$`MIN versus all`
+character(0)
+
+$`SAN versus all`
+character(0)
+
+$`+ DEN NYC +`
+ [1] "ADEJ"        "APH3.DPRIME" "ARSC"        "BLAI"        "BLAR"        "CADX"        "CAP16S"     
+ [8] "CRP"         "CTX"         "CZRA"        "DNAK"        "EMRASM"      "EMRBSM"      "ERMX"       
+[15] "FABG"        "FABI"        "FOLP"        "FUSA"        "FUSE"        "GYRA"        "GYRB"       
+[22] "GYRBZ"       "ICR"         "LNUA"        "LPXC"        "LSAC"        "MCO"         "MERA"       
+[29] "MERE"        "MERF"        "MERT"        "MEXE"        "MEXF"        "MEXK"        "MLS23S"     
+[36] "MPHE"        "MSRD"        "MSRE"        "MUXB"        "OMPA"        "OXYRKP"      "PARC"       
+[43] "PARE"        "PCOB"        "PHOP"        "PSTA"        "PSTB"        "PSTC"        "PTSL"       
+[50] "QACD"        "QACR"        "RECG"        "RECGM"       "RLMA"        "RPOB"        "RPOCL"      
+[57] "RPOCR"       "RPOS"        "RPSA"        "RPSL"        "RRS"         "RRSC"        "RRSH"       
+[64] "RUVB"        "SILA"        "SILB"        "SILC"        "SILP"        "SME"         "SMRA"       
+[71] "SODA"        "SODB"        "TCRB"        "TCRY"        "TCRZ"        "TETA"        "TUFAB"      
+[78] "VANRS"       "YAJC"        "YJCG"       
+
+$`+ DEN SAC +`
+[1] "A16S"   "CAP16S" "MLS23S" "RPSA"   "RRS"    "RRSA"   "VANRS" 
+
+$`+ DEN BAL +`
+[1] "MERA"  "MERE"  "MERT"  "TUFAB"
+
+$`+ DEN MIN +`
+NULL
+
+$`+ DEN SAN +`
+NULL
+
+$`+ NYC SAC +`
+[1] "ERMX"  "MERA"  "MERD"  "MERE"  "MEXE"  "O23S"  "PARE"  "RECGM" "RUVB" 
+
+$`+ NYC BAL +`
+NULL
+
+$`+ NYC MIN +`
+character(0)
+
+$`+ NYC SAN +`
+[1] "CAP16S" "O23S"   "PARE"   "RRS"    "RRSH"   "RUVB"  
+
+$`+ SAC BAL +`
+[1] "MERA" "MERD" "MERE" "MERR" "MERT" "OXA" 
+
+$`+ SAC MIN +`
+character(0)
+
+$`+ SAC SAN +`
+character(0)
+
+$`+ BAL MIN +`
+character(0)
+
+$`+ BAL SAN +`
+[1] "MERD" "MERE"
+
+$`+ MIN SAN +`
+character(0)
+

@@ -1,0 +1,97 @@
+$`DEN versus all`
+ [1] "CAP16S" "ERMX"   "MEXE"   "MEXF"   "MUXB"   "OXYRKP" "PARC"   "PARE"   "PSTB"   "PSTC"   "PTSL"  
+[12] "RECGM"  "RPOB"   "RPOCR"  "RPOS"   "RPSA"   "RRSH"   "SODA"   "SODB"   "TETA"   "VANRS" 
+
+$`NYC versus all`
+  [1] "ABAQ"        "ABEM"        "ABES"        "ABUO"        "ACRB"        "ADEA"        "ADEB"       
+  [8] "ADEE"        "ADEG"        "ADEH"        "ADEI"        "ADEJ"        "ADEK"        "ADEL"       
+ [15] "ADEN"        "ADER"        "ADET2"       "AMPH"        "AMVA"        "ANT3.DPRIME" "APH3.DPRIME"
+ [22] "APH3.PRIME"  "ARNA"        "ARSBM"       "ARSC"        "ARSRM"       "BASRS"       "BLAA"       
+ [29] "BLAI"        "BLAR"        "CADC"        "CADD"        "COPA"        "COPC"        "CORA"       
+ [36] "CPXAR"       "CTX"         "CUEA"        "CZRA"        "DFRA"        "EMRASM"      "EMRBSM"     
+ [43] "EMRCSM"      "EMRR"        "ERMC"        "ERMX"        "FABI"        "FABK"        "FOLP"       
+ [50] "FUSE"        "GLPT"        "GYRB"        "GYRBA"       "GYRBZ"       "HNS"         "IBPA"       
+ [57] "ICR"         "ILES"        "KPN"         "LPSB"        "LPXA"        "LPXC"        "LSAC"       
+ [64] "MCO"         "MEFA"        "MERD"        "MERE"        "MERF"        "MERP"        "MERT"       
+ [71] "MEXB"        "MEXE"        "MEXF"        "MEXK"        "MEXT"        "MGRA"        "MPHC"       
+ [78] "MPHE"        "MSRA"        "MSRD"        "MUXB"        "NORA"        "NORMD"       "NREB"       
+ [85] "OMPA"        "OPMH"        "OXYRKP"      "PARC"        "PARE"        "PATA"        "PATB"       
+ [92] "PCM"         "PCOA"        "PCOB"        "PCOC"        "PCOD"        "PCOE"        "PCOR"       
+ [99] "PCOS"        "PSTA"        "PSTB"        "PSTC"        "PSTS"        "PTSL"        "QACC"       
+[106] "QACD"        "QACR"        "RECG"        "RLMA"        "RPLD"        "RPOCL"       "RPOCR"      
+[113] "RPOS"        "RPSJ"        "RRS"         "RRSH"        "RSMA"        "SILA"        "SILC"       
+[120] "SILE"        "SILF"        "SILP"        "SME"         "SMET"        "SMRA"        "SODA"       
+[127] "SODB"        "SULII"       "TCRA"        "TCRB"        "TCRY"        "TCRZ"        "TETA"       
+[134] "TETK"        "TETR"        "TOLCSM"      "TRIC"        "UHPT"        "VGA"         "WALK"       
+[141] "YAJC"        "YJCG"        "ZIPB"       
+
+$`SAC versus all`
+[1] "MERD" "MERE" "MERP"
+
+$`BAL versus all`
+character(0)
+
+$`MIN versus all`
+character(0)
+
+$`SAN versus all`
+character(0)
+
+$`+ DEN NYC +`
+ [1] "ABAQ"        "ADEJ"        "ADET2"       "APH3.DPRIME" "ARSC"        "BASRS"       "BLAI"       
+ [8] "CADD"        "COPA"        "CORA"        "CPXAR"       "CRP"         "CUEA"        "CZRA"       
+[15] "DFRA"        "DNAK"        "EMRBSM"      "ERMC"        "ERMX"        "FABG"        "FABI"       
+[22] "FOLP"        "FUSE"        "GYRB"        "GYRBA"       "GYRBZ"       "HNS"         "IBPA"       
+[29] "ICR"         "LNUA"        "LPSB"        "LPXC"        "LSAC"        "MCO"         "MERE"       
+[36] "MERF"        "MERP"        "MEXE"        "MEXF"        "MEXK"        "MEXT"        "MGRA"       
+[43] "MPHC"        "MPHE"        "MSRA"        "MSRD"        "MSRE"        "MUXB"        "OMPA"       
+[50] "OXYRKP"      "PARC"        "PARE"        "PATA"        "PATB"        "PCOB"        "PCOC"       
+[57] "PCOE"        "PCOS"        "PSTA"        "PTSL"        "QACC"        "QACD"        "QACR"       
+[64] "RECG"        "RLMA"        "RPOCL"       "RPSA"        "RRSA"        "RUVB"        "SILA"       
+[71] "SILB"        "SILC"        "SILF"        "SILP"        "SME"         "SMET"        "SMRA"       
+[78] "SODA"        "SODB"        "TCRB"        "TCRY"        "TCRZ"        "TETA"        "TETR"       
+[85] "YAJC"        "YJCG"       
+
+$`+ DEN SAC +`
+[1] "CAP16S" "RPSA"   "RPSL"   "RRS"    "RRSA"   "RRSC"   "VANRS" 
+
+$`+ DEN BAL +`
+[1] "ERMX" "MERT"
+
+$`+ DEN MIN +`
+[1] "RPOB" "RRS" 
+
+$`+ DEN SAN +`
+character(0)
+
+$`+ NYC SAC +`
+ [1] "BLAI"  "CTX"   "FABI"  "FUSA"  "MERD"  "MERR"  "OXA"   "PSTC"  "PTSL"  "RPOCL" "SME"   "TCRY" 
+
+$`+ NYC BAL +`
+[1] "CADX"   "FABI"   "OXYRKP" "PSTB"   "QACR"   "RPOCL" 
+
+$`+ NYC MIN +`
+character(0)
+
+$`+ NYC SAN +`
+ [1] "BLAI"   "CADD"   "CADX"   "CPXAR"  "CTX"    "ERMX"   "FABI"   "MERA"   "MEXF"   "OXYRKP" "QACC"  
+[12] "RECGM"  "RPOCL"  "RRS"   
+
+$`+ SAC BAL +`
+[1] "MERD" "MERE" "MERP" "MERR" "OXA" 
+
+$`+ SAC MIN +`
+character(0)
+
+$`+ SAC SAN +`
+NULL
+
+$`+ BAL MIN +`
+character(0)
+
+$`+ BAL SAN +`
+[1] "MERA" "MERD" "O23S"
+
+$`+ MIN SAN +`
+character(0)
+

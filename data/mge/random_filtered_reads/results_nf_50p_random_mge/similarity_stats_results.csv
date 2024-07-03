@@ -1,0 +1,9 @@
+"","variant","mean(S_in) - mean(S_out)","n_Samples"
+"1","if_svd.TRUE|Ma_subset.all|sparse.TRUE","0.578174838861453",137
+"2","if_svd.FALSE|Ma_subset.all|sparse.TRUE","0.512781581266014",137
+"3","if_svd.TRUE|Ma_subset.significant|sparse.TRUE","0.276365214808476",135
+"4","if_svd.FALSE|Ma_subset.significant|sparse.TRUE","0.330480844549206",132
+"5","if_svd.TRUE|Ma_subset.all|sparse.FALSE","0.140492544482242",137
+"6","if_svd.FALSE|Ma_subset.all|sparse.FALSE","0.121938360196786",137
+"7","if_svd.TRUE|Ma_subset.significant|sparse.FALSE","0.121662202405188",135
+"8","if_svd.FALSE|Ma_subset.significant|sparse.FALSE","0.116848617452205",132

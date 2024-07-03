@@ -1,0 +1,94 @@
+$`DEN versus all`
+ [1] "A16S"   "CAP16S" "ERMX"   "MEXE"   "MEXF"   "MLS23S" "O23S"   "PARE"   "PSTB"   "RPOB"   "RPOCR" 
+[12] "RPSA"   "RPSL"   "RRS"    "RRSA"   "RRSH"   "RUVB"   "SODB"   "TUFAB"  "VANRS" 
+
+$`NYC versus all`
+  [1] "A16S"        "ABAQ"        "ABES"        "ABUO"        "ADEH"        "ADEJ"        "ADET2"      
+  [8] "APH3.DPRIME" "ARNA"        "ARSBM"       "ARSC"        "BASRS"       "BLAI"        "BLAR"       
+ [15] "CADD"        "CADX"        "CAP16S"      "COPA"        "COPC"        "CORA"        "CPXAR"      
+ [22] "CRP"         "CTX"         "CUEA"        "CZRA"        "DNAK"        "EMRASM"      "EMRBSM"     
+ [29] "EMRCSM"      "ERMC"        "ERMX"        "FABG"        "FABI"        "FOLP"        "FUSA"       
+ [36] "FUSE"        "GLPT"        "GYRA"        "GYRB"        "GYRBA"       "GYRBZ"       "HNS"        
+ [43] "IBPA"        "ICR"         "ILES"        "KPN"         "LNUA"        "LPSB"        "LPXA"       
+ [50] "LPXC"        "LSAC"        "MCO"         "MERA"        "MERD"        "MERE"        "MERF"       
+ [57] "MERT"        "MEXB"        "MEXE"        "MEXF"        "MEXK"        "MEXT"        "MEXW"       
+ [64] "MLS23S"      "MPHC"        "MSRA"        "MSRD"        "MSRE"        "MUXB"        "NORA"       
+ [71] "NORMD"       "NREB"        "O23S"        "OMPA"        "OXYRKP"      "PARC"        "PARE"       
+ [78] "PATA"        "PATB"        "PCOB"        "PCOD"        "PCOE"        "PCOR"        "PCOS"       
+ [85] "PHOP"        "PSTA"        "PSTB"        "PSTC"        "PTSL"        "QACC"        "QACD"       
+ [92] "QACR"        "RECG"        "RECGM"       "RLMA"        "RPLD"        "RPOB"        "RPOCL"      
+ [99] "RPOCR"       "RPOS"        "RPSA"        "RPSJ"        "RPSL"        "RRS"         "RRSA"       
+[106] "RRSC"        "RRSH"        "RUVB"        "SILA"        "SILB"        "SILC"        "SILP"       
+[113] "SILS"        "SME"         "SMET"        "SMRA"        "SODA"        "SODB"        "SULII"      
+[120] "TCRA"        "TCRB"        "TCRY"        "TCRZ"        "TET16S"      "TETA"        "TETK"       
+[127] "TETR"        "TUFAB"       "UHPT"        "WALK"        "YAJC"        "YJCG"       
+
+$`SAC versus all`
+[1] "MERA" "MERD" "MERP" "MERT"
+
+$`BAL versus all`
+character(0)
+
+$`MIN versus all`
+character(0)
+
+$`SAN versus all`
+ [1] "A16S"        "APH3.DPRIME" "ARSC"        "BLAI"        "BLAR"        "CADD"        "CADX"       
+ [8] "CAP16S"      "CPXAR"       "CRP"         "CTX"         "CZRA"        "DNAK"        "EMRASM"     
+[15] "ERMX"        "FABG"        "FABI"        "FOLP"        "FUSA"        "FUSE"        "GYRA"       
+[22] "GYRB"        "GYRBZ"       "ICR"         "LNUA"        "LPXC"        "LSAC"        "MCO"        
+[29] "MERA"        "MERE"        "MERF"        "MERP"        "MERR"        "MERT"        "MEXE"       
+[36] "MEXF"        "MEXK"        "MLS23S"      "MPHE"        "MSRD"        "MSRE"        "MUXB"       
+[43] "O23S"        "OMPA"        "OXYRKP"      "PARC"        "PARE"        "PATA"        "PCOB"       
+[50] "PHOP"        "PSTA"        "PSTB"        "PSTC"        "PTSL"        "QACD"        "RECG"       
+[57] "RECGM"       "RLMA"        "RPOB"        "RPOCL"       "RPOCR"       "RPOS"        "RPSA"       
+[64] "RPSL"        "RRS"         "RRSA"        "RRSC"        "RRSH"        "RUVB"        "SILA"       
+[71] "SILB"        "SILC"        "SILP"        "SME"         "SMRA"        "SODA"        "SODB"       
+[78] "TCRB"        "TCRY"        "TET16S"      "TETA"        "TUFAB"       "VANRS"       "YAJC"       
+
+$`+ DEN NYC +`
+[1] "CAP16S" "O23S"   "RPSA"   "RPSL"   "RRS"    "RRSA"   "RRSC"   "TUFAB"  "VANRS" 
+
+$`+ DEN SAC +`
+NULL
+
+$`+ DEN BAL +`
+[1] "RPOB" "RPSA"
+
+$`+ DEN MIN +`
+character(0)
+
+$`+ DEN SAN +`
+ [1] "CPXAR"  "CRP"    "CTX"    "ERMX"   "MERD"   "MERE"   "MERT"   "MEXE"   "MEXF"   "O23S"   "PARE"  
+[12] "RPSL"   "RRSH"   "TET16S"
+
+$`+ NYC SAC +`
+[1] "A16S"   "CAP16S" "GYRA"   "TUFAB" 
+
+$`+ NYC BAL +`
+character(0)
+
+$`+ NYC MIN +`
+[1] "CAP16S" "MERD"   "MERP"   "MERT"   "MLS23S" "RRS"    "RRSA"   "RUVB"   "TET16S"
+
+$`+ NYC SAN +`
+[1] "MERD" "MERE" "MERP" "MERR" "MERT" "OXA" 
+
+$`+ SAC BAL +`
+character(0)
+
+$`+ SAC MIN +`
+NULL
+
+$`+ SAC SAN +`
+character(0)
+
+$`+ BAL MIN +`
+[1] "MERD" "MERE"
+
+$`+ BAL SAN +`
+character(0)
+
+$`+ MIN SAN +`
+[1] NA
+

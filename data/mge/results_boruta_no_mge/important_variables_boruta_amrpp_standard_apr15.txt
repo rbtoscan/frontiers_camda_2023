@@ -1,0 +1,64 @@
+$`DEN versus all`
+[1] "A16S"  "TUFAB"
+
+$`NYC versus all`
+ [1] "A16S"   "CAP16S" "MLS23S" "O23S"   "PARE"   "RPOB"   "RRSA"   "RRSC"   "RRSH"   "SODB"   "TCRZ"  
+[12] "TET16S"
+
+$`SAC versus all`
+[1] "A16S"   "CADX"   "MLS23S" "O23S"   "RPSL"   "TUFAB"  "VANRS" 
+
+$`BAL versus all`
+[1] "MERT"  "TUFAB"
+
+$`MIN versus all`
+ [1] "A16S"   "MERD"   "MLS23S" "O23S"   "RPSA"   "RPSL"   "RRSA"   "RRSH"   "TET16S" "TUFAB"  "VANRS" 
+
+$`SAN versus all`
+[1] "A16S"  "O23S"  "RPSA"  "RPSL"  "TUFAB"
+
+$`+ DEN NYC +`
+[1] "A16S"   "MLS23S" "O23S"   "RPSA"   "RPSL"   "RRSA"   "TUFAB" 
+
+$`+ DEN SAC +`
+[1] "A16S"  "RPSA"  "RPSL"  "TUFAB" "VANRS"
+
+$`+ DEN BAL +`
+[1] "A16S"
+
+$`+ DEN MIN +`
+[1] "A16S"  "MERD"  "RPSA"  "RPSL"  "TUFAB" "VANRO" "VANRS"
+
+$`+ DEN SAN +`
+[1] "RPSA"  "TUFAB"
+
+$`+ NYC SAC +`
+[1] "A16S"   "MLS23S" "VANRS" 
+
+$`+ NYC BAL +`
+[1] "A16S"   "RPSA"   "TET16S" "TUFAB" 
+
+$`+ NYC MIN +`
+[1] "A16S"   "MLS23S" "O23S"   "TUFAB"  "VANRS" 
+
+$`+ NYC SAN +`
+[1] "A16S" "O23S" "RRSA"
+
+$`+ SAC BAL +`
+[1] "MLS23S" "RPSA"   "TUFAB"  "VANRS" 
+
+$`+ SAC MIN +`
+[1] "MERD"  "RPSL"  "TUFAB" "VANRS"
+
+$`+ SAC SAN +`
+[1] "O23S"
+
+$`+ BAL MIN +`
+[1] "MERD"  "RPSA"  "TUFAB" "VANRS"
+
+$`+ BAL SAN +`
+[1] "RPSA"  "TUFAB"
+
+$`+ MIN SAN +`
+[1] "A16S"
+

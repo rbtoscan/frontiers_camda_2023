@@ -1,0 +1,83 @@
+$`DEN versus all`
+ [1] "A16S"   "CAP16S" "ERMX"   "MLS23S" "O23S"   "OXA"    "PARE"   "RPOB"   "RPOCR"  "RPSA"   "RPSL"  
+[12] "RRS"    "RRSA"   "RRSC"   "TET16S" "TUFAB"  "VANRS" 
+
+$`NYC versus all`
+ [1] "A16S"        "APH3.DPRIME" "BLAI"        "CADD"        "CAP16S"      "CPXAR"       "EMRBSM"     
+ [8] "ERMX"        "FABI"        "GYRA"        "GYRBZ"       "LNUA"        "MERF"        "MEXE"       
+[15] "MEXF"        "MLS23S"      "MSRD"        "MSRE"        "NORMD"       "OXA"         "PARE"       
+[22] "PSTB"        "PSTC"        "PTSL"        "QACC"        "QACR"        "RECGM"       "RPOB"       
+[29] "RPOCL"       "RPOCR"       "RPSA"        "RPSL"        "RRS"         "RRSA"        "RRSC"       
+[36] "RRSH"        "RUVB"        "SME"         "SMRA"        "SODA"        "SODB"        "TCRZ"       
+[43] "TETA"        "TUFAB"      
+
+$`SAC versus all`
+ [1] "A16S"   "CAP16S" "ERMX"   "GYRA"   "MERA"   "MERD"   "MERE"   "MERP"   "MERR"   "MERT"   "MLS23S"
+[12] "O23S"   "PARE"   "RPOB"   "RPSA"   "RPSL"   "RRS"    "RRSA"   "RRSC"   "SODB"   "TET16S" "TUFAB" 
+[23] "VANRS" 
+
+$`BAL versus all`
+ [1] "ERMX"  "MERA"  "MERD"  "MERE"  "MERP"  "MERR"  "MERT"  "OXA"   "RPOB"  "TUFAB"
+
+$`MIN versus all`
+ [1] "A16S"  "BJP1"  "CEOB"  "CZRA"  "MERC"  "MERT"  "MUXB"  "OXA"   "RPOB"  "RPSA"  "TUFAB" "VANRO"
+[13] "VANRS"
+
+$`SAN versus all`
+[1] "O23S"
+
+$`+ DEN NYC +`
+ [1] "A16S"   "CADX"   "CAP16S" "ERMX"   "GYRA"   "GYRBZ"  "LNUA"   "MEXF"   "MLS23S" "PARE"   "PSTB"  
+[12] "QACC"   "QACR"   "RECGM"  "RPOB"   "RPOCR"  "RPSA"   "RPSL"   "RRS"    "RRSA"   "RRSC"   "RRSH"  
+[23] "RUVB"   "SODB"   "TET16S" "TETA"   "TUFAB" 
+
+$`+ DEN SAC +`
+ [1] "A16S"   "CAP16S" "MERA"   "MERP"   "MERR"   "MLS23S" "O23S"   "RPSA"   "RPSL"   "RRS"    "RRSA"  
+[12] "RRSC"   "SODB"   "TET16S" "TUFAB"  "VANRO"  "VANRS" 
+
+$`+ DEN BAL +`
+ [1] "A16S"   "ERMX"   "MERA"   "MERD"   "MERE"   "MERR"   "MERT"   "MLS23S" "OXA"    "RRS"    "RRSA"  
+[12] "TETA"  
+
+$`+ DEN MIN +`
+ [1] "A16S"  "BJP1"  "CEOB"  "GYRA"  "MUXB"  "OXA"   "RPOB"  "RPOCR" "RPSA"  "RPSL"  "RRS"   "SODB" 
+[13] "TUFAB" "VANRO" "VANRS"
+
+$`+ DEN SAN +`
+[1] "O23S"  "RPOB"  "RPOCR" "RPSA"  "TUFAB" "VANRS"
+
+$`+ NYC SAC +`
+ [1] "A16S"  "BLAI"  "ERMX"  "GYRA"  "MERA"  "MERD"  "MERE"  "MERP"  "MERR"  "MERT"  "PARE"  "RPSA" 
+[13] "RPSL"  "RRSA"  "RUVB"  "VANRS"
+
+$`+ NYC BAL +`
+ [1] "MERD"   "MERR"   "MLS23S" "PARE"   "RPOB"   "RPOCR"  "RPSA"   "RPSL"   "RRSH"   "RUVB"   "SODB"  
+[12] "TUFAB" 
+
+$`+ NYC MIN +`
+ [1] "CAP16S" "CEOB"   "MLS23S" "MUXB"   "O23S"   "OXA"    "RRSC"   "RRSH"   "VANRO"  "VANRS" 
+
+$`+ NYC SAN +`
+ [1] "A16S"   "CAP16S" "ERMX"   "GYRA"   "MERT"   "MLS23S" "O23S"   "PARE"   "RRS"    "RRSA"   "RRSC"  
+[12] "RRSH"   "RUVB"   "SODB"   "TET16S"
+
+$`+ SAC BAL +`
+ [1] "A16S"   "ERMX"   "MERA"   "MERD"   "MERE"   "MERP"   "MERR"   "MERT"   "MLS23S" "OXA"    "RPSA"  
+[12] "RPSL"   "RRSA"   "TET16S" "VANRS" 
+
+$`+ SAC MIN +`
+ [1] "A16S"   "CEOB"   "MERA"   "MERC"   "MERD"   "MERP"   "MERR"   "MLS23S" "MUXB"   "O23S"   "OXA"   
+[12] "RPOB"   "RRSA"   "RRSC"   "VANRO" 
+
+$`+ SAC SAN +`
+[1] "A16S"   "CAP16S" "MLS23S" "O23S"   "RRS"    "RRSA"   "RRSC"   "RRSH"   "TET16S"
+
+$`+ BAL MIN +`
+ [1] "CEOB"   "GYRA"   "O23S"   "RPOB"   "RPOCR"  "RPSA"   "TET16S" "TUFAB"  "VANRO"  "VANRS" 
+
+$`+ BAL SAN +`
+[1] "ERMX"   "MERA"   "MERD"   "MERR"   "MERT"   "O23S"   "OXA"    "RPSA"   "TET16S"
+
+$`+ MIN SAN +`
+[1] "MERC"  "MERD"  "OXA"   "RPSL"  "RRS"   "VANRO"
+

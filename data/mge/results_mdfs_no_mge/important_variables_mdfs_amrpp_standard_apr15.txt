@@ -1,0 +1,65 @@
+$`DEN versus all`
+[1] "A16S"  "RPSL"  "TUFAB"
+
+$`NYC versus all`
+ [1] "A16S"   "CAP16S" "CPXAR"  "CRP"    "GYRA"   "MLS23S" "O23S"   "PARE"   "RECGM"  "RPOB"   "RPOCR" 
+[12] "RPSA"   "RPSL"   "RRS"    "RRSA"   "RRSC"   "RRSH"   "RUVB"   "SODB"   "TCRZ"   "TET16S"
+
+$`SAC versus all`
+character(0)
+
+$`BAL versus all`
+character(0)
+
+$`MIN versus all`
+character(0)
+
+$`SAN versus all`
+character(0)
+
+$`+ DEN NYC +`
+ [1] "A16S"   "CAP16S" "MLS23S" "O23S"   "RPOB"   "RPSL"   "RRS"    "RRSA"   "RRSC"   "RRSH"   "TET16S"
+[12] "TUFAB" 
+
+$`+ DEN SAC +`
+NULL
+
+$`+ DEN BAL +`
+character(0)
+
+$`+ DEN MIN +`
+character(0)
+
+$`+ DEN SAN +`
+character(0)
+
+$`+ NYC SAC +`
+[1] "A16S"   "O23S"   "RRSA"   "TET16S"
+
+$`+ NYC BAL +`
+[1] "MLS23S" "RPSA"   "RRSA"   "TET16S"
+
+$`+ NYC MIN +`
+character(0)
+
+$`+ NYC SAN +`
+[1] "A16S"   "RRSA"   "TET16S"
+
+$`+ SAC BAL +`
+NULL
+
+$`+ SAC MIN +`
+character(0)
+
+$`+ SAC SAN +`
+character(0)
+
+$`+ BAL MIN +`
+NULL
+
+$`+ BAL SAN +`
+character(0)
+
+$`+ MIN SAN +`
+character(0)
+
