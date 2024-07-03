@@ -1,0 +1,14 @@
+{
+  "theme": "default",
+  "themeVariables": {
+    "fontFamily": "Arial",
+    "fontSize": "15px",
+    "titleColor": "#000000",
+    "edgeLabelBackground": "#ffffff",
+    "tertiaryColor": "#f3f4f8",
+    "secondaryColor": "#3c3c3c"
+  },
+  "flowchart": {
+    "curve": "linear"
+  }
+}

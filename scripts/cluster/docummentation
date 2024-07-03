@@ -1,0 +1,29 @@
+
+1. To compute statistics over similarities:
+	- run city_similarity.R with command line argument telling the name of the dataset inside 'dataset.csv' file:
+		Rscript --no-save city_similarity.R dataset
+	  this will generate 'datsetsimilarity_stats_results.csv', which contains the value of the statistic per each
+	  similarity variant
+
+2. To perform jackknife standard error estimation, following scripts can be used (after 1.):
+	- prepare_jack.script will generate folder structure and resamples of the datasets
+	- S_io_SE.R has to be run 500 times, with varying argument signifying the replicate number 
+	  and for each dataset. Assuming data is inside 'dataset.csv':
+	  Rscript --no-save S_io_SE.R dataset 1 
+	  Rscript --no-save S_io_SE.R dataset 2 
+	  (...)
+	  Rscript --no-save S_io_SE.R dataset 500
+	  we have run this part in parallel using HPC cluster.
+	- after all of the above is done, one can run aggregate_JSE.R (without any command line arguments)
+	  to compute standard errors and produce plots in file 'SE.jpg'
+
+3. To perform permutation test (after 1.):
+	- prepare_jack.script will generate folder structure and resamples of the datasets
+	- perm_test_S_io.R has to be run 5000 times, with varying argument signifying the replicate number 
+	  Rscript --no-save perm_test_S_io.R 1 
+	  Rscript --no-save perm_test_S_io.R 2 
+	  (...)
+	  Rscript --no-save perm_test_S_io.R 5000
+	  we have run this part in parallel using HPC cluster.
+	- after all of the above is done, one can run aggregate_permTest.R (without any command line arguments)
+	  to compute p-values and save them in file 'H_corrected_pvs.csv'

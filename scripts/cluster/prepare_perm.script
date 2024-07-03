@@ -1,0 +1,6 @@
+mkdir -p amrpp_binary amrfinder_binary bowtie_binary rgi_binary
+Rscript --no-save perm_test_prep.R amrpp_binary
+Rscript --no-save perm_test_prep.R amrfinder_binary
+Rscript --no-save perm_test_prep.R bowtie_binary
+Rscript --no-save perm_test_prep.R rgi_binary
+
